@@ -1,0 +1,19 @@
+{
+  "name": "practicaisw-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogandven/PracticaISW.git"
+  },
+  "author": "Roger Venegas",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rogandven/PracticaISW/issues"
+  },
+  "homepage": "https://github.com/rogandven/PracticaISW#readme",
+  "description": ""
+}
