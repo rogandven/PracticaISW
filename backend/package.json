@@ -15,5 +15,8 @@
     "url": "https://github.com/rogandven/PracticaISW/issues"
   },
   "homepage": "https://github.com/rogandven/PracticaISW#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
